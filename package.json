@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-operation",
+  "version": "1.0.0",
+  "description": "Perform mongodb operation with node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janani2411/mongodboperation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janani2411/mongodboperation/issues"
+  },
+  "homepage": "https://github.com/janani2411/mongodboperation#readme"
+}
